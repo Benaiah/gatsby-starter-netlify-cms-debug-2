@@ -1,8 +1,8 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Coffee
-image: /img/jumbotron.jpg
+image: /img/cms-user-test-image.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -11,7 +11,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/meeting-space.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
